@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908499950960",
+    "project_id": "web-rtc-demo-knb",
+    "storage_bucket": "web-rtc-demo-knb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908499950960:android:1121128f0184a6aca583b5",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908499950960-r9v6j3647c3q1f3un5ht3khvtd1vj3g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3uhduO8b7etb0KZ34Am6bNgr0ZPeJcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908499950960-r9v6j3647c3q1f3un5ht3khvtd1vj3g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
